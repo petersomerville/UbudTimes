@@ -1,0 +1,164 @@
+* { margin: 0px; padding: 0; } 
+.debug, .debug * { border: 1px dotted red;}
+
+/* Text Display */
+
+.text-center {text-align: center}
+.text-left {text-align: left}
+.text-right {text-align: right}
+.text-justify {text-align: justify;}
+
+/* Border */
+
+.brdr-t1 {border-top: 1px solid #555555}
+.brdr-r1 {border-right: 1px solid #555555}
+.brdr-b1 {border-bottom: 1px solid #555555}
+.brdr-l1 {border-left: 1px solid #555555}
+
+.brdr-t2 {border-top: 2px solid #555555}
+.brdr-r2 {border-right: 2px solid #555555}
+.brdr-b2 {border-bottom: 2px solid #555555}
+.brdr-l2 {border-left: 2px solid #555555}
+
+.brdr-t3 {border-top: 3px solid #555555}
+.brdr-r3 {border-right: 3px solid #555555}
+.brdr-b3 {border-bottom: 3px solid #555555}
+.brdr-l3 {border-left: 3px solid #555555}
+
+.brdr-t4 {border-top: 4px solid #555555}
+.brdr-r4 {border-right: 4px solid #555555}
+.brdr-b4 {border-bottom: 4px solid #555555}
+.brdr-l4 {border-left: 4px solid #555555}
+
+.brdr-t5 {border-top: 5px solid #555555}
+.brdr-r5 {border-right: 5px solid #555555}
+.brdr-b5 {border-bottom: 5px solid #555555}
+.brdr-l5 {border-left: 5px solid #555555}
+
+.brdr-x1 {border-left: 1px solid #555555; border-right: 1px solid #555555}
+.brdr-y1 {border-top: 1px solid #555555; border-bottom: 1px solid #555555}
+
+.brdr-x2 {border-left: 2px solid #555555; border-right: 2px solid #555555}
+.brdr-y2 {border-top: 2px solid #555555; border-bottom: 2px solid #555555}
+
+.brdr-x3 {border-left: 3px solid #555555; border-right: 3px solid #555555}
+.brdr-y3 {border-top: 3px solid #555555; border-bottom: 3px solid #555555}
+
+.brdr-x4 {border-left: 4px solid #555555; border-right: 4px solid #555555}
+.brdr-y4 {border-top: 4px solid #555555; border-bottom: 4px solid #555555}
+
+.brdr-x5 {border-left: 5px solid #555555; border-right: 5px solid #555555}
+.brdr-y5 {border-top: 5px solid #555555; border-bottom: 5px solid #555555}
+
+.brdr-1 {border: 1px solid #555555}
+.brdr-2 {border: 2px solid #555555}
+.brdr-3 {border: 3px solid #555555}
+.brdr-4 {border: 4px solid #555555}
+.brdr-5 {border: 5px solid #555555}
+
+/* Margins */
+
+.mar-t1 {margin-top: 5px }
+.mar-r1 {margin-right: 5px}
+.mar-b1 {margin-bottom: 5px}
+.mar-l1 {margin-left: 5px}
+
+.mar-t2 {margin-top: 10px}
+.mar-r2 {margin-right: 10px}
+.mar-b2 {margin-bottom: 10px}
+.mar-l2 {margin-left: 10px}
+
+.mar-t3 {margin-top: 15px}
+.mar-r3 {margin-right: 15px}
+.mar-b3 {margin-bottom: 15px}
+.mar-l3 {margin-left: 15px}
+
+.mar-t4 {margin-top: 20px}
+.mar-r4 {margin-right: 20px}
+.mar-b4 {margin-bottom: 20px}
+.mar-l4 {margin-left: 20px}
+
+.mar-t5 {margin-top: 25px}
+.mar-r5 {margin-right: 25px}
+.mar-b5 {margin-bottom: 25px}
+.mar-l5 {margin-left: 25px}
+
+.mar-x1 {margin-left: 5px; margin-right: 5px}
+.mar-y1 {margin-top: 5px; margin-bottom: 5px}
+
+.mar-x2 {margin-left: 10px; margin-right: 10px}
+.mar-y2 {margin-top: 10px; margin-bottom: 10px}
+
+.mar-x3 {margin-left: 15px; margin-right: 15px}
+.mar-y3 {margin-top: 15px; margin-bottom: 15px}
+
+.mar-x4 {margin-left: 20px; margin-right: 20px}
+.mar-y4 {margin-top: 20px; margin-bottom: 20px}
+
+.mar-x5 {margin-left: 25px; margin-right: 25px}
+.mar-y5 {margin-top: 25px; margin-bottom: 25px}
+
+.mar-1 {margin: 5px }
+.mar-2 {margin: 10px }
+.mar-3 {margin: 15px }
+.mar-4 {margin: 20px }
+.mar-5 {margin: 25px }
+
+/* Padding */
+
+.pad-t1 {padding-top: 5px }
+.pad-r1 {padding-right: 5px}
+.pad-b1 {padding-bottom: 5px}
+.pad-l1 {padding-left: 5px}
+
+.pad-t2 {padding-top: 10px}
+.pad-r2 {padding-right: 10px;}
+.pad-b2 {padding-bottom: 10px}
+.pad-l2 {padding-left: 10px}
+
+.pad-t3 {padding-top: 15px}
+.pad-r3 {padding-right: 15px}
+.pad-b3 {padding-bottom: 15px}
+.pad-l3 {padding-left: 15px}
+
+.pad-t4 {padding-top: 20px}
+.pad-r4 {padding-right: 20px}
+.pad-b4 {padding-bottom: 20px}
+.pad-l4 {padding-left: 20px}
+
+.pad-t5 {padding-top: 25px}
+.pad-r5 {padding-right: 25px}
+.pad-b5 {padding-bottom: 25px}
+.pad-l5 {padding-left: 25px}
+
+.pad-x1 {padding-left: 5px; padding-right: 5px}
+.pad-y1 {padding-top: 5px; padding-bottom: 5px}
+
+.pad-x2 {padding-left: 10px; padding-right: 10px}
+.pad-y2 {padding-top: 10px; padding-bottom: 10px}
+
+.pad-x3 {padding-left: 15px; padding-right: 15px}
+.pad-y3 {padding-top: 15px; padding-bottom: 15px}
+
+.pad-x4 {padding-left: 20px; padding-right: 20px}
+.pad-y4 {padding-top: 20px; padding-bottom: 20px}
+
+.pad-x5 {padding-left: 25px; padding-right: 25px}
+.pad-y5 {padding-top: 25px; padding-bottom: 25px}
+
+.pad-1 {padding: 5px }
+.pad-2 {padding: 10px }
+.pad-3 {padding: 15px }
+.pad-4 {padding: 20px }
+.pad-5 {padding: 25px }
+
+
+.di {display: inline}
+.db {display: block}
+.dib {display: inline-block}
+
+.float-left {float: left}
+.float-right {float:right}
+
+.align-top {vertical-align: top}
+.align-bottom {vertical-align: bottom}

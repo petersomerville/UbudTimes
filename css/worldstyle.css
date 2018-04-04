@@ -1,0 +1,198 @@
+.container {
+    width: 1060px; 
+    margin: 0 auto;
+}
+
+.world {
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pages li {
+    font-size: 0.7em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lederow {
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+}
+
+.ledeleft {
+    width: 490px;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 15px;
+    border-right: 1px solid gray;
+    margin-right: 15px;
+}
+
+.ledecenter {
+    width: 245px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.lederight {
+    width: 245px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 15px;
+    border-left: 1px solid gray;
+    margin-left: 15px;
+}
+
+.lederightone {
+    vertical-align: top;
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+}
+
+.lederighttwo {
+    vertical-align: top;
+}
+
+.middlerow {
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+}
+
+.middleone {
+    width: 180px;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 15px;
+    border-right: 1px solid gray;
+    margin-right: 15px;
+}
+
+.middletwo {
+    width: 180px;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 15px;
+    border-right: 1px solid gray;
+    margin-right: 15px;
+}
+
+.middlethree {
+    width: 180px;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 15px;
+    border-right: 1px solid gray;
+    margin-right: 15px;
+}
+.middlefour {
+    width: 180px;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 15px;
+    border-right: 1px solid gray;
+    margin-right: 15px;
+}
+.middlefive {
+    width: 180px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.lastrow {
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+}
+
+.lastrowone {
+    width: 860px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+
+.lastrowonedate {
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0.7em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+.lastrowonebody {
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+
+}
+
+.lastrowonepic {
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+.lastrowtwo {
+    width: 860px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+
+.lastrowtwodate {
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0.7em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+.lastrowtwobody {
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+
+}
+
+.lastrowtwopic {
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+.lastrowthree {
+    width: 860px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+
+.lastrowthreedate {
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0.7em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+.lastrowthreebody {
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+
+}
+
+.lastrowthreepic {
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
